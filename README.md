@@ -1,1 +1,1 @@
-# This is a very important file.
+YouCanBenefit est une application Web qui augmente la dÃ©couvrabilitÃ© des programmes d'avantages sociaux pour les personnes moins fortunÃ©es et leurs alliÃ©s.
